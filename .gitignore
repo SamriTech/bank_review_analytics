@@ -1,0 +1,12 @@
+# Ignore the virtual environment
+venv/
+__pycache__/
+
+# Ignore system files
+.DS_Store
+
+# Optional: Usually we ignore data, but for this project 
+# you might want to commit the small CSV files. 
+# If you want to hide data, uncomment the line below:
+data/
+.ipynb_checkpoints/
